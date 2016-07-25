@@ -164,9 +164,10 @@ Kent Beck提出的XP(eXtreme Programming)中，TDD(Test Driven Development)实�
   另外，在CI中部署分支覆盖率监控工具，可以感知到分支覆盖情况逐渐变好，在代码重构完成同时，也交付了一份自动化测试用例（当然，分支覆盖率仅能保证分支被跑到，并不能保证逻辑正确）。
 
 ## 遗留代码重构决策表（Excel版)
-下载地址：
 
 ![refactor-decision-list](images/refactor-decision-list.gif)
+
+下载地址：https://github.com/liyongshun/refactor/blob/master/refactor_decision_list.xlsx
 
 
 
